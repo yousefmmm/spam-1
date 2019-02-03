@@ -4,11 +4,11 @@ console.log("Hassan_Gamer");
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("528029394149572618")
+let channel =     client.channels.get("541618484174520330")
 setInterval(function() {
 channel.send(`Abram Ya zft`)
 }, 25)
 })
  
  
-client.login("NTE1MzQ0MzgwMDI3MDc2NjI4.DwcUtA.rHj5njIPFlt8jGERvbHg0saGAy4");
+client.login("NTI5MDcwODk1NzI2MTk4ODA0.DziEZQ.yIPPM-2wVlTiCec5kZb-dcqQsBU");
